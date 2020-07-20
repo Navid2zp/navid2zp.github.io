@@ -221,6 +221,17 @@ export const projects = [
         ]
 	},
 	{
+        text: "ِDesktop",
+        arr: [
+            {
+                title: 'Gilak',
+                logo: 'https://lh3.googleusercontent.com/7wKogDf6SSCTRNVGfslRJmd6_Gq5eZxjqzKDNTJU6XpzSiXWtTaCWzU1HRDnhtJAyR0=s180-rw',
+                desc: 'Desktop (Windows/Mac/Linux) version of gilaki dictionary app.',
+                link: 'https://github.com/Navid2zp/gilak-desktop'
+			},
+        ]
+	},
+	{
         text: "Bots",
         arr: [
             {
