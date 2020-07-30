@@ -1,5 +1,6 @@
 ## Portfolio
-My portfolio. Template by [p32929](https://github.com/p32929)
+My portfolio website. Template by [p32929](https://github.com/p32929)
+
 Original template: https://github.com/p32929/p32929.github.io/
 
 Visit Live: https://navid2zp.com/
