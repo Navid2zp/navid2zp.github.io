@@ -37,7 +37,7 @@ export const linkedInIcon = 'M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.4
 // First page infos
 export var myName = 'Navid Zarepak'
 export var myOccupation = 'Developer'
-export var myDetails = 'Hi, I’m Navid or you might know me by the first name “Reza”, well they both are my name but my close friends and families call me Navid and others call me “Reza”. Also, I use this one for legal activities because, well it’s my legal name, let’s say no one exists by the name “Navid Zarepak”, or he’s not me. Okay, it’s getting confusing …. You can just call me Navid just because you are here. :)'
+export var myDetails = 'Hi, I’m Navid or you might know me by the first name “Reza”, well they both are my names but my close friends and families call me Navid and others call me “Reza”. Also, I use this one for legal activities because, well it’s my legal name, we can say no one exists by the name “Navid Zarepak”, or he’s not me. Okay, it’s getting confusing …. You can just call me Navid just because you are here. :)'
 export var myImageLink = "/me.jpg"
 export var primaryColor = '#333';
 
